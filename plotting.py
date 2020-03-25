@@ -35,7 +35,7 @@ def plot(data):
 		t_dbl = data.get_doubling_times(cases_or_deaths, limit)
 		axB.plot_date(dates[window:], t_dbl, '-', label=c)
 		
-		d = get_days_to_n(cases_or_deaths[-1], n_cases_proj, t_dbl[-1])
+		d = get_days_to_n(cases_or_deaths[-1], n_proj, t_dbl[-1])
 		axC.plot(n_proj, d, label=c)
 	
 	f1, ax1 = new_fig_ax()
@@ -57,7 +57,7 @@ def plot(data):
 					 ax5, ax6, ax7)
 		
 		# plot the death rate
-		ax4.plot_date(data.dates, data.get_death_rate(c), '-', label=c)
+		ax4.plot_date(data.dates, data.get_death_rate(c)*100, '-', label=c)
 	
 	print('Formatting plots...')
 	ax1.legend(bbox_to_anchor=(1.01, 1))
