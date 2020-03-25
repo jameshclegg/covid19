@@ -1,0 +1,4 @@
+Organise graphs into folders
+Convert to .py files
+Scheduling
+Change to plot top 10 countries in the world instead of my arbitrary list
