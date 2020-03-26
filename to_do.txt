@@ -1,4 +1,4 @@
-Organise graphs into folders
-Convert to .py files
-Scheduling
+Organise graphs into folders - done
+Convert to .py files - done
+Scheduling - done - awaiting test
 Change to plot top 10 countries in the world instead of my arbitrary list
