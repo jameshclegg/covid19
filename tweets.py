@@ -38,14 +38,14 @@ def to_ordinal(cardinal):
         return suffices[0]
 
 def get_time_str(time):
-    string = f"{time.hour}:{time.minute} on {time.day}{to_ordinal(time.day):s} {time.strftime('%b %Y')}"
+    string = f"{time.hour:02d}:{time.minute:02d} on {time.day}{to_ordinal(time.day):s} {time.strftime('%b %Y')}"
     return string
 
 def thank(s):
     ack_str = '. Data from @JHUSystems'
     return s + ack_str
 
-def tweet(api, folder_name):
+def tweet(api, folder_name, test=False):
 	time_now = datetime.datetime.now()
 	time_str = get_time_str(time_now)
 	user = '@a_good_brew' + ' '
@@ -57,11 +57,14 @@ def tweet(api, folder_name):
 		
 		path_to_pic = os.path.join(folder_name, fname)
 		
-		if reply_id is None:
-			t = api.update_with_media(path_to_pic, full_message)
+		if test:
+			print(full_message)
 		else:
-			t = api.update_with_media(path_to_pic, '@a_good_brew' + full_message, reply_id)
-		return t
+			if reply_id is None:
+				t = api.update_with_media(path_to_pic, full_message)
+			else:
+				t = api.update_with_media(path_to_pic, '@a_good_brew' + full_message, reply_id)
+			return t
 
 	t1 = tweet_pic_with_thanks('deaths.png', '#COVID19 death stats', time_now)
 	t2 = tweet_pic_with_thanks('deaths_doubling_times.png', '#COVID19 death doubling times', time_now)
@@ -74,3 +77,10 @@ def initialise_and_tweet(folder_name):
 	api = authorise(keys)
 	
 	tweet(api, folder_name)
+
+
+def main():
+	tweet(None, '2020-03-25', test=True)
+	
+if __name__ == "__main__":
+	main()
