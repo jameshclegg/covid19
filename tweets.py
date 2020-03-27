@@ -1,6 +1,9 @@
 import tweepy
 import datetime
 import os
+import pytz
+
+TZ = pytz.timezone('Europe/London')
 
 def get_keys():
 	
@@ -38,15 +41,17 @@ def to_ordinal(cardinal):
         return suffices[0]
 
 def get_time_str(time):
-    string = f"{time.hour:02d}:{time.minute:02d} on {time.day}{to_ordinal(time.day):s} {time.strftime('%b %Y')}"
-    return string
+	clock_time = time.strftime('%H:%M %Z on ')
+	month_year = time.strftime('%b %Y')
+	string = clock_time + f"{time.day}{to_ordinal(time.day):s} " + month_year
+	return string
 
 def thank(s):
     ack_str = '. Data from @JHUSystems'
     return s + ack_str
 
 def tweet(api, folder_name, test=False):
-	time_now = datetime.datetime.now()
+	time_now = datetime.datetime.now(TZ)
 	time_str = get_time_str(time_now)
 	user = '@a_good_brew' + ' '
 	
