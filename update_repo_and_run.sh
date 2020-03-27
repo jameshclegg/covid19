@@ -18,3 +18,4 @@ python3 covid19.py
 
 git add *
 git commit -m "daily update"
+git push
