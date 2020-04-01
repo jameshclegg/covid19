@@ -1,5 +1,5 @@
-ce9872cf update date to match format
-06c64677 initial commit
-bef1ebd1 note update
-20e55de7 initial commit
-f3481781 automated update
+42ded9fd update 03-31-2020 daily report
+9951068d automated update
+376119aa add 3/22 and 3/30
+d398dfdb Add Berliner Morgenpost
+6e41829f add UID for US states
