@@ -1,5 +1,5 @@
-42ded9fd update 03-31-2020 daily report
-9951068d automated update
-376119aa add 3/22 and 3/30
-d398dfdb Add Berliner Morgenpost
-6e41829f add UID for US states
+33640a58 update data for 4/1/20
+a56cb1ca update time series data for 3/31/20
+43e6d369 updated time series for 4/1/20
+9c7ec51d adjusted daily report 04-01-2020
+62e6af9b adjusted daily report 04-01-2020
