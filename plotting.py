@@ -27,7 +27,7 @@ def get_days_to_n(n_current, counts, doubling_time):
 def plot(data):
 	
 	n_cases_proj = np.logspace(3, np.log10(3e6), 45)
-	n_deaths_proj = 0.01 * n_cases_proj
+	n_deaths_proj = 0.05 * n_cases_proj
 	
 	def plot_triplet(dates, cases_or_deaths, window, n_proj, limit, axA, axB, axC):	
 		axA.plot_date(dates, cases_or_deaths, '.', label=c)
