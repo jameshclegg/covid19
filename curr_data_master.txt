@@ -1,5 +1,5 @@
+6af1fed7 automated update
+2f6a888c automated update
+0f6bc152 add new countries
 33640a58 update data for 4/1/20
 a56cb1ca update time series data for 3/31/20
-43e6d369 updated time series for 4/1/20
-9c7ec51d adjusted daily report 04-01-2020
-62e6af9b adjusted daily report 04-01-2020
