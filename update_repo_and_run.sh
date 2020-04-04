@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd ~/Documents/covid19/covid19
-ls
+git pull
 
 #1 go to data repo and get latest data
 cd ~/Documents/covid19/COVID-19

@@ -1,5 +1,5 @@
-6af1fed7 automated update
-2f6a888c automated update
-0f6bc152 add new countries
-33640a58 update data for 4/1/20
-a56cb1ca update time series data for 3/31/20
+817c2bd1 change data type for FIPS
+6527df45 automated update
+d3cfe941 automated update
+7b8a6cb4 UID Logic
+d8222162 new countries and updated combined keys
