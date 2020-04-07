@@ -1,5 +1,5 @@
-865c933c automated update
-7f562f31 automated update
-4ddc4859 add 666 and 732
-f7c23846 automated update
-0174f38b automated update
+f3dea791 add MW and ST
+73fd981c automated update
+0361956d automated update
+b9637892 add SSD
+cee82306 add population
