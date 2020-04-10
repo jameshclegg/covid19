@@ -1,5 +1,5 @@
+130954a2 automated update
+ae5e8eac automated update
+53324cb4 adjust incorrect data
+df0c068d Update time_series_covid19_deaths_US.csv
 5acaa8f8 automated update
-80b03e48 automated update
-1a68338b automated update
-c7cea9d5 automated update
-b397198e changed Falkland Islands (Islas Malvinas) to Falkland Islands (Malvinas)
