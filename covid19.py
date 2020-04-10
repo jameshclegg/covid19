@@ -35,10 +35,6 @@ def get_data_frames():
     
     return dfs
 
-    confirmed_cases = {}
-    doubling_times = {}
-    deaths_ = {}
-    death_doubling_times = {}
 
 def get_stats(data_frames):
     
@@ -49,9 +45,6 @@ def get_stats(data_frames):
     
     all_confirmed_data = data_frames[0]
     all_deaths_data = data_frames[1]
-    
-    # TODO - extract constants
-    window = 3
     
     # initialise class to hold data
     data = Data()
@@ -82,11 +75,11 @@ def get_stats(data_frames):
         return data_vs_time
 
     for c in COUNTRIES:
-        this_confirmed = get_stats_by_country(all_confirmed_data, c)
-        this_deaths = get_stats_by_country(all_deaths_data, c)
+        here_confirmed = get_stats_by_country(all_confirmed_data, c)
+        here_deaths = get_stats_by_country(all_deaths_data, c)
 
-        data.confirmed_cases[c] = this_confirmed
-        data.deaths[c] = this_deaths
+        data.confirmed_cases[c] = here_confirmed
+        data.deaths[c] = here_deaths
     
     rest_of_world_confirmed = whole_world_confirmed - pd.DataFrame(data.confirmed_cases).transpose().sum()
     rest_of_world_deaths = whole_world_deaths - pd.DataFrame(data.deaths).transpose().sum()
