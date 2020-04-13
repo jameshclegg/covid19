@@ -1,5 +1,5 @@
-971d70f7 update readme
-e57aee11 added new folder for us daily reports
-dcd41816 automated update
-b7d22e1f automated update
-b6ec1ce7 add covid tracking prj
+3489fad9 Update 03-24-2020.csv
+4e1bd9df Update 03-25-2020.csv
+3aa38586 Update 03-26-2020.csv
+bde3f576 Correction for Hainan, China
+01e9a43b Correction for Hainan, China
