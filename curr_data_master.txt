@@ -1,5 +1,5 @@
-a9fd32a9 Okaloosa correction
-3f59216b update Okaloosa, FL
-99479e76 update US 4/13
-49fa9742 Okaloosa, FL update
-fb32f319 Okaloosa, FL update
+c7a5b79a update data
+cf5550f6 update deaths
+9f571f76 Unassigned NY update April 3,4,5
+bb80e989 fix duplicate error
+5b5e2fd8 Revert "Unassigned, NY April 3,4,5"
