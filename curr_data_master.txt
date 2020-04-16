@@ -1,5 +1,5 @@
-c7a5b79a update data
-cf5550f6 update deaths
-9f571f76 Unassigned NY update April 3,4,5
-bb80e989 fix duplicate error
-5b5e2fd8 Revert "Unassigned, NY April 3,4,5"
+7a2941d8 adjust data
+26613d36 fixed missing data
+5c48ae6b automated update
+72a8e3aa automated update
+22753a5f updated data
