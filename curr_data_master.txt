@@ -1,5 +1,5 @@
-db4efa2b automated update
-ca7afe5e automated update
-ca11cb6e Veteran Hospitals
-a212e6ce automated update
-09caeeae automated update
+8ad492e9 automated update
+54700034 automated update
+5b6ea74c 4/22 Corrections for US federal data
+3f6dfd70 Update 04-21-2020.csv
+f974d9c9 Update time_series_covid19_deaths_global.csv
