@@ -1,5 +1,5 @@
-8ad492e9 automated update
-54700034 automated update
-5b6ea74c 4/22 Corrections for US federal data
-3f6dfd70 Update 04-21-2020.csv
-f974d9c9 Update time_series_covid19_deaths_global.csv
+19299ca1 automated update
+c089a7df automated update
+2f155db0 Benton and Franklin, WA 0421 0422
+ada2ee81 adjust for Benton and Franklin, WA
+fe20b71d adjust for Benton and Franklin, WA on April 22
