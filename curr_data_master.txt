@@ -1,5 +1,5 @@
-65ba34a7 Update Ukraine
-5ee2bbf3 Update Ukraine
-ad3d7972 adjust Ukraine
-22e0555f automated update
-4e4b8963 automated update
+8a924192 automated update
+e5c19e4a automated update
+46a7433b Update Australia recovered
+e5dfbb2e Update Australia recovered
+fe60e472 Update NYC deaths
