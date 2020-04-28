@@ -1,5 +1,5 @@
-8a924192 automated update
-e5c19e4a automated update
-46a7433b Update Australia recovered
-e5dfbb2e Update Australia recovered
-fe60e472 Update NYC deaths
+bda67e3d automated update
+84b3126b automated update
+394d7463 update terms of use
+19a8fab1 Adjust Diamond Princess, Canada
+6216d550 Adjust Diamond Princess, Canada
