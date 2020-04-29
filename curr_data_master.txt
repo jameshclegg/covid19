@@ -1,5 +1,5 @@
-bda67e3d automated update
-84b3126b automated update
-394d7463 update terms of use
-19a8fab1 Adjust Diamond Princess, Canada
-6216d550 Adjust Diamond Princess, Canada
+4fd1f718 automated update
+8a22c55b automated update
+598e32c9 Update README.md
+fe7c0623 Update README.md
+f938cdf9 Update README.md
