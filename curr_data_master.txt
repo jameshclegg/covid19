@@ -1,5 +1,5 @@
-2666c910 automated update
-81c02fdd automated update
-7ea30a95 add pop sources
-2f6dd707 Add Spain regions, KM, TJ
-4be1093b Update Spain 4/26-4/29
+799123ea automated update
+3959babf automated update
+35a425a1 Update README
+25aac635 update terms 3
+d6c1af14 Update terms 3
