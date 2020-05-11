@@ -1,5 +1,5 @@
-15067372 Virginia, US May 6
-d2e41db6 Virginia, US May 6
-3af505d4 Virginia, US May 6
-306c8088 Virginia May 6
-ad92c0e6 Virginia May 6
+a150df0f automated update
+87f5bc51 automated update
+9efe4753 Update errata.csv
+e7864dd7 Update Uruguay confirmed, deaths, and recovered
+bb4efb4c Update Uruguay
