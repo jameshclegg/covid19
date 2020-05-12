@@ -1,5 +1,5 @@
-a150df0f automated update
-87f5bc51 automated update
-9efe4753 Update errata.csv
-e7864dd7 Update Uruguay confirmed, deaths, and recovered
-bb4efb4c Update Uruguay
+c5f09505 automated update
+2651ce0b automated update
+9b2d8a14 Aleutians West lat long
+5184bec7 Update Spain 01/05/20
+22c69550 Update Errata.csv
