@@ -1,5 +1,5 @@
-f51f51bf automated update
-fff612c6 automated update
-265ea284 Add files via upload
-86cd641f add Germany and Spain sources
-c458bcb7 add Italy
+963407b0 automated update
+c75ecb52 automated update
+6b530584 update La Rioja lat/long
+514787d2 Merge pull request #2525 from Yuhang065/master
+b24f0898 Add files via upload
