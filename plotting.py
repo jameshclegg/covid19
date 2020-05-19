@@ -31,7 +31,7 @@ def plot(data):
 	
 	def plot_triplet(dates, cases_or_deaths, window, n_proj, limit, axA, axB, axC):	
 		axA.plot_date(dates, cases_or_deaths, '.', label=c)
-		
+
 		t_dbl = data.get_doubling_times(cases_or_deaths, limit)
 		axB.plot_date(dates[window:], t_dbl, '-', label=c)
 		
@@ -47,6 +47,7 @@ def plot(data):
 	f7, ax7 = new_fig_ax()
 		
 	print('Starting to plot...')
+	# loop over countries
 	for c in data.confirmed_cases:
 		plot_triplet(data.dates, data.confirmed_cases[c], 
 					 data.window, n_cases_proj, 50,
