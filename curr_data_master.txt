@@ -1,5 +1,5 @@
-25e7bc4e automated update
-69dfb78f automated update
-43a4a60f Germany states
-c5f09505 automated update
-2651ce0b automated update
+8390ba65 automated update
+8390e60b automated update
+e05330d3 France source
+f1d4011e add Mexican states
+b621b80d add Mexico population
