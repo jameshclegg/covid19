@@ -72,9 +72,10 @@ def tweet(api, folder_name, test=False):
 			return t
 
 	t1 = tweet_pic_with_thanks('deaths.png', '#COVID19 death stats', time_now)
-	t2 = tweet_pic_with_thanks('deaths_doubling_times.png', '#COVID19 death doubling times', time_now)
-	t3 = tweet_pic_with_thanks('deaths_days_to_n.png', '#COVID19 death predictions', time_now)
-	t4 = tweet_pic_with_thanks('confirmed_days_to_n.png', '#COVID19 case number predictions', time_now)
+	t2 = tweet_pic_with_thanks('confirmed.png', '#COVID19 confirmed cases', time_now)
+	#t2 = tweet_pic_with_thanks('deaths_doubling_times.png', '#COVID19 death doubling times', time_now)
+	#t3 = tweet_pic_with_thanks('deaths_days_to_n.png', '#COVID19 death predictions', time_now)
+	#t4 = tweet_pic_with_thanks('confirmed_days_to_n.png', '#COVID19 case number predictions', time_now)
 
 def initialise_and_tweet(folder_name):
 	
