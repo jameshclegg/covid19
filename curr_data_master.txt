@@ -1,5 +1,5 @@
-8390ba65 automated update
-8390e60b automated update
-e05330d3 France source
-f1d4011e add Mexican states
-b621b80d add Mexico population
+1b3fbc5c automated update
+f21a9319 automated update
+71988ce2 Chile and Brazil
+16b0fed2 Brazil pop
+76b1427d Brazil and Chile
