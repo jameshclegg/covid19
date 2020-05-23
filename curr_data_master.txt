@@ -1,5 +1,5 @@
+307c5f5e automated update
+99137abd automated update
+c75e3f84 add UK note
+3850c952 update lat/long for Congo
 daa20971 automated update
-5ad7f505 automated update
-68f3030b Japan
-81bbd88b Italy 0312 update
-63e12c40 Italy 0312 827 -> 1016
