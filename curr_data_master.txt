@@ -1,5 +1,5 @@
-ed06dde3 automated update
-d827a5fd automated update
-b35b53cd add Peru
-8f3d6d88 Japan and Peru
-5e986bef add Peru
+04c9ce88 automated update
+098e589a automated update
+09e51654 Update Errata
+cbbf3596 Update France
+7aa2a3e5 Update France
