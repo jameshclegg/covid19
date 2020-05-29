@@ -1,5 +1,5 @@
+66c71f58 automated update
+724e843b automated update
+f2b2f316 Peru lat/long
+b9789de1 Correction for Siskiyou, CA
 04c9ce88 automated update
-098e589a automated update
-09e51654 Update Errata
-cbbf3596 Update France
-7aa2a3e5 Update France
