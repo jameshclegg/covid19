@@ -1,5 +1,5 @@
-66c71f58 automated update
-724e843b automated update
-f2b2f316 Peru lat/long
-b9789de1 Correction for Siskiyou, CA
-04c9ce88 automated update
+077f03a8 automated update
+e6245f90 automated update
+b844f57a Russian data
+8bd11fbe O’Higgins lat/long update
+b65727c1 update list
