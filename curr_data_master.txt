@@ -1,5 +1,5 @@
-bfd7e2ea automated update
-f6d624f3 Add files via upload
-b0a2c4b9 automated update
-eae5f4b2 Add files via upload
-4b770f28 Merge pull request #2610 from CSSEGISandData/2608-Fix-Oklahoma
+f0afdd14 Update France cases (110906 -> 188836)
+9c618ea7 France correction 0603
+f87abaad Update France cases 0603 (110906 -> 188836)
+1f5e9d54 automated update
+01e5c55b automated update
