@@ -1,5 +1,5 @@
+9c3275de Add Sweden
+8ccc1292 Add Sweden
+4883c58c automated update
+334f81a1 automated update
 f0afdd14 Update France cases (110906 -> 188836)
-9c618ea7 France correction 0603
-f87abaad Update France cases 0603 (110906 -> 188836)
-1f5e9d54 automated update
-01e5c55b automated update
