@@ -1,5 +1,5 @@
-9c3275de Add Sweden
-8ccc1292 Add Sweden
-4883c58c automated update
-334f81a1 automated update
-f0afdd14 Update France cases (110906 -> 188836)
+9776b2c1 automated update
+a10eb2f9 automated update
+5ef294c7 Merge pull request #2629 from CSSEGISandData/2618-Sweden-Recover
+47c7c5da Updated errata.csv
+1475d90e Mods for Sweden recoveries
