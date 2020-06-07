@@ -1,5 +1,5 @@
-9776b2c1 automated update
-a10eb2f9 automated update
-5ef294c7 Merge pull request #2629 from CSSEGISandData/2618-Sweden-Recover
-47c7c5da Updated errata.csv
-1475d90e Mods for Sweden recoveries
+8c85544f automated update
+537345b8 automated update
+d2b54366 update lat/long for Atacama, Chile
+d60e71ed Merge pull request #2636 from CSSEGISandData/2632-Brazil-No-Data
+a5f06a81 Updates Brazil for 6/5
