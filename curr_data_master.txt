@@ -1,5 +1,5 @@
+dd07d05f automated update
+8d3e6623 automated update
 8c85544f automated update
 537345b8 automated update
 d2b54366 update lat/long for Atacama, Chile
-d60e71ed Merge pull request #2636 from CSSEGISandData/2632-Brazil-No-Data
-a5f06a81 Updates Brazil for 6/5
