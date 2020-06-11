@@ -1,5 +1,5 @@
-0d30ddcc automated update
-e80e1ab4 automated update
-4432d002 Update README.md
-1f28bd15 more sources
-9404d31b add Pakistan, India and the UK
+1f4ce8fc automated update
+3b84e582 automated update
+cb257220 Update README
+9269306b Update Pakistan 6/7/20
+57ba5069 Update Pakistan June 7th
