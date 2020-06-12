@@ -1,5 +1,5 @@
-1f4ce8fc automated update
-3b84e582 automated update
-cb257220 Update README
-9269306b Update Pakistan 6/7/20
-57ba5069 Update Pakistan June 7th
+bf85e510 Merge pull request #2686 from CSSEGISandData/2638-Fix-State-FIPS
+616e0cf1 newline
+a1ef30f1 correction to state FIPS formating
+da7d5b58 corrections
+4bc6283d Merge pull request #2683 from CSSEGISandData/Update-UK-Geo
