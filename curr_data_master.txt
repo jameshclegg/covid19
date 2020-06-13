@@ -1,5 +1,5 @@
-bf85e510 Merge pull request #2686 from CSSEGISandData/2638-Fix-State-FIPS
-616e0cf1 newline
-a1ef30f1 correction to state FIPS formating
-da7d5b58 corrections
-4bc6283d Merge pull request #2683 from CSSEGISandData/Update-UK-Geo
+666792e2 automated update
+52005e36 automated update
+ce350188 Update St. Louis County and St. Louis City, MO; MA
+efe9fc8d update readme structure for Missouri sources
+fe42f4dc update readme with Missouri sources
