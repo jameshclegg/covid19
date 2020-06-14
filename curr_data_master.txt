@@ -1,5 +1,5 @@
-666792e2 automated update
-52005e36 automated update
-ce350188 Update St. Louis County and St. Louis City, MO; MA
-efe9fc8d update readme structure for Missouri sources
-fe42f4dc update readme with Missouri sources
+9c4ce58e automated update
+02ea750a automated update
+a593171a Merge pull request #2703 from CSSEGISandData/Resolve-MI-Probables
+9b5e193b Updated for MI probables
+bc73244f Merge pull request #2702 from CSSEGISandData/Resolve-MI-Probables
