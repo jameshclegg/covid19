@@ -1,5 +1,5 @@
-8de9a383 automated update
-9967fabe automated update
-9c4ce58e automated update
-02ea750a automated update
-a593171a Merge pull request #2703 from CSSEGISandData/Resolve-MI-Probables
+299275df automated update
+aa89ad0c automated update
+5ffaa225 Merge pull request #2711 from CSSEGISandData/2676-Resolve-Santa-Clara
+85fd0991 Update Santa Clara CA
+2f4e81d5 Merge pull request #2710 from CSSEGISandData/2705-Update-India
