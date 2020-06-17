@@ -1,5 +1,5 @@
-299275df automated update
-aa89ad0c automated update
-5ffaa225 Merge pull request #2711 from CSSEGISandData/2676-Resolve-Santa-Clara
-85fd0991 Update Santa Clara CA
-2f4e81d5 Merge pull request #2710 from CSSEGISandData/2705-Update-India
+e2feec89 automated update
+4981d756 automated update
+fb9a3e35 Update README.md
+7ea4915a Update Errata Oregon counties June 14th
+89112ef0 Update time_series_covid19_deaths_US.csv
