@@ -1,5 +1,5 @@
-e2feec89 automated update
-4981d756 automated update
-fb9a3e35 Update README.md
-7ea4915a Update Errata Oregon counties June 14th
-89112ef0 Update time_series_covid19_deaths_US.csv
+f04f6ce2 automated update
+f0c7a1c4 automated update
+9cc04dd8 update readme with us state sources
+e13d3bb5 update readme with us state level sources
+5cebf0a6 Update README.md
