@@ -1,5 +1,5 @@
-a74024c6 automated update
-a46d5f37 automated update
-38a7ebb6 Update Belarus April 18/April 19
-a3dd0ec1 Update Data Modification records
-9f41569d Update Errata.csv
+3fdcab72 automated update
+77c1d13a automated update
+5cb6f5de Merge pull request #2730 from CSSEGISandData/2727-NC-Update-6-19
+659a107a Update data for NC
+07dff478 Update data for NC
