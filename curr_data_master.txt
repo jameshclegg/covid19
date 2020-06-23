@@ -1,5 +1,5 @@
-8cd357c0 automated update
-70995de5 automated update
-3fdcab72 automated update
-77c1d13a automated update
-5cb6f5de Merge pull request #2730 from CSSEGISandData/2727-NC-Update-6-19
+d2588311 automated update
+f613ae22 automated update
+22ccedba Merge pull request #2738 from CSSEGISandData/2733-Update-Brazil-6-20
+95c0244b Update Errata.csv
+308791e5 Update Brazil June 20
