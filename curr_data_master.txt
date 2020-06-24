@@ -1,5 +1,5 @@
-d2588311 automated update
-f613ae22 automated update
-22ccedba Merge pull request #2738 from CSSEGISandData/2733-Update-Brazil-6-20
-95c0244b Update Errata.csv
-308791e5 Update Brazil June 20
+81edec24 automated update
+83f58fc4 automated update
+1b7c4e6a Merge pull request #2740 from CSSEGISandData/Update-Peru-6-20
+fae2b144 Update Peru for 6/19 and 6/21
+a70d326f update readme with new us statstate sources
