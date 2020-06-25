@@ -1,5 +1,5 @@
-81edec24 automated update
-83f58fc4 automated update
-1b7c4e6a Merge pull request #2740 from CSSEGISandData/Update-Peru-6-20
-fae2b144 Update Peru for 6/19 and 6/21
-a70d326f update readme with new us statstate sources
+3f58c294 update readme with new us state sources
+c5f7451d updated readme sources for Peru
+37dbd301 Merge pull request #2743 from CSSEGISandData/Update-OR-6-20
+02f5d761 Update OR 6/20-6/21
+8db8560d Update OR 6/20-6/21
