@@ -1,5 +1,5 @@
-3f58c294 update readme with new us state sources
-c5f7451d updated readme sources for Peru
-37dbd301 Merge pull request #2743 from CSSEGISandData/Update-OR-6-20
-02f5d761 Update OR 6/20-6/21
-8db8560d Update OR 6/20-6/21
+999a788f automated update
+89b1b355 automated update
+8e0e3f70 Merge pull request #2762 from CSSEGISandData/NJ-Data-Mod-Message
+d34491ac Updated data mod record for NJ
+50e7dbd5 update readme with new us state sources
