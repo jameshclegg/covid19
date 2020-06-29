@@ -1,5 +1,5 @@
-aaa14312 automated update
-53c386e6 automated update
-0eeacbae Update README
-07d2f2a4 Merge pull request #2770 from CSSEGISandData/2766-Fix-Iowa
-c903b38b Update June 27 Daily for Iowa
+b9174f56 automated update
+14bb65ab automated update
+1461786c Update README
+00ca8b00 Update Errata.csv
+736ece08 Update France June 1st - June 27th
