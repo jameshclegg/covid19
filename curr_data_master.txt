@@ -1,5 +1,5 @@
+deddfd8e automated update
+199079f5 automated update
+c63e83e8 Merge pull request #2779 from CSSEGISandData/2776-Update-IA-Time
+dfca1ef0 Corrects update time
 b9174f56 automated update
-14bb65ab automated update
-1461786c Update README
-00ca8b00 Update Errata.csv
-736ece08 Update France June 1st - June 27th
