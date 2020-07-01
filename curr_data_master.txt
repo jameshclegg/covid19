@@ -1,5 +1,5 @@
-deddfd8e automated update
-199079f5 automated update
-c63e83e8 Merge pull request #2779 from CSSEGISandData/2776-Update-IA-Time
-dfca1ef0 Corrects update time
-b9174f56 automated update
+7b06a0fd automated update
+4e85a5f4 automated update
+6d4866c2 Merge pull request #2792 from CSSEGISandData/Adj-Franklin-NY
+db6916f8 Update Franklin NY
+7ac061f4 Update Franklin NY
