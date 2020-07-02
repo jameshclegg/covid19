@@ -1,5 +1,5 @@
-7b06a0fd automated update
-4e85a5f4 automated update
-6d4866c2 Merge pull request #2792 from CSSEGISandData/Adj-Franklin-NY
-db6916f8 Update Franklin NY
-7ac061f4 Update Franklin NY
+47373e6b automated update
+7d8319d0 automated update
+6364611a Merge pull request #2802 from CSSEGISandData/2772-Update-Ventura-CA
+6c6b1034 Updates to Ventura, CA
+d59a6e7a Add files via upload
