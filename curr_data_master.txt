@@ -1,5 +1,5 @@
-47373e6b automated update
-7d8319d0 automated update
-6364611a Merge pull request #2802 from CSSEGISandData/2772-Update-Ventura-CA
-6c6b1034 Updates to Ventura, CA
-d59a6e7a Add files via upload
+482ed07c automated update
+e6a5f282 automated update
+d626b89f Merge pull request #2811 from CSSEGISandData/2084-Kazahkstan-Jul-1
+c0298b7d Correct Kazakhstan Jul 1
+a52b9036 Update Errata date format
