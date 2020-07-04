@@ -1,5 +1,5 @@
-482ed07c automated update
-e6a5f282 automated update
-d626b89f Merge pull request #2811 from CSSEGISandData/2084-Kazahkstan-Jul-1
-c0298b7d Correct Kazakhstan Jul 1
-a52b9036 Update Errata date format
+3c00b46b automated update
+18a1db50 automated update
+a5546584 Merge pull request #2822 from CSSEGISandData/Fix-Global-Deaths
+c2f2e067 Update global deaths file
+b397c5fc Merge branch 'IL-fix-issue2815-07032020'
