@@ -1,5 +1,5 @@
-3c00b46b automated update
-18a1db50 automated update
-a5546584 Merge pull request #2822 from CSSEGISandData/Fix-Global-Deaths
-c2f2e067 Update global deaths file
-b397c5fc Merge branch 'IL-fix-issue2815-07032020'
+201e860c automated update
+178f8b40 automated update
+ec2d710c Merge pull request #2828 from CSSEGISandData/2827-Update-Brazil-Deaths-Jul-3
+721c705a Update Brazil Deaths for Jul 3
+f7caf207 Update Brazil Deaths for Jul 3
