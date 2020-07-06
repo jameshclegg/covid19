@@ -1,5 +1,5 @@
+270f3e53 automated update
+b8ed8d18 automated update
 201e860c automated update
 178f8b40 automated update
 ec2d710c Merge pull request #2828 from CSSEGISandData/2827-Update-Brazil-Deaths-Jul-3
-721c705a Update Brazil Deaths for Jul 3
-f7caf207 Update Brazil Deaths for Jul 3
