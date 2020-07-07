@@ -1,5 +1,5 @@
-270f3e53 automated update
-b8ed8d18 automated update
-201e860c automated update
-178f8b40 automated update
-ec2d710c Merge pull request #2828 from CSSEGISandData/2827-Update-Brazil-Deaths-Jul-3
+7b6f7244 automated update
+6f1fc6a7 automated update
+d66b12e6 Merge pull request #2838 from CSSEGISandData/2829-Harris-TX
+3f632437 Update 7/3-7/5 from county reporting
+3ebb542f update US state Oregon source
