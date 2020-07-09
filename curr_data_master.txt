@@ -1,5 +1,5 @@
-7b6f7244 automated update
-6f1fc6a7 automated update
-d66b12e6 Merge pull request #2838 from CSSEGISandData/2829-Harris-TX
-3f632437 Update 7/3-7/5 from county reporting
-3ebb542f update US state Oregon source
+6b22e31d automated update
+221ce93d automated update
+f16c3500 Japan update
+246d61d2 Update README
+8bfaf365 automated update
