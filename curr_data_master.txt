@@ -1,5 +1,5 @@
-9140596e automated update
-88e8d1d1 automated update
-96247fad Merge pull request #2866 from CSSEGISandData/2663-Peru-Jun-2
-8a805f78 Update Peru June 2nd
-88f13e86 Update Errata.csv
+5569ca9c automated update
+a7cb75f7 automated update
+4fc28a99 Merge pull request #2871 from CSSEGISandData/2625-Fix-Dent-And-Douglas-MO
+411111a7 Updates Dent and Douglas MO
+2842297f Merge pull request #2870 from CSSEGISandData/2423-Fix-Granville-NC-Apr-27
