@@ -1,5 +1,5 @@
-5569ca9c automated update
-a7cb75f7 automated update
-4fc28a99 Merge pull request #2871 from CSSEGISandData/2625-Fix-Dent-And-Douglas-MO
-411111a7 Updates Dent and Douglas MO
-2842297f Merge pull request #2870 from CSSEGISandData/2423-Fix-Granville-NC-Apr-27
+061a439d automated update
+97a62cc5 automated update
+ebe8bee1 Merge pull request #2878 from CSSEGISandData/2877-Update-Dallas-County-TX
+0a47a577 Updates to Dallas County, TX
+ae146b3d add embed snippet
