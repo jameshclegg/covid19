@@ -1,5 +1,5 @@
-de6fed5a automated update
-f54858d9 automated update
-c45ac5ba Merge pull request #2882 from CSSEGISandData/1147-Fix-Colombia
-e62b57a3 Update Colombia 3/16-3/20
-c4d84cf2 Merge pull request #2881 from CSSEGISandData/2598-Update-Colombia
+26c3210a automated update
+06d75e0e automated update
+b181039a Merge pull request #2888 from CSSEGISandData/Fix-US-Timeseries-Formats-Jul-18
+df79c981 Reset file format
+d436d6b1 Reset file format
