@@ -1,5 +1,5 @@
-26c3210a automated update
-06d75e0e automated update
-b181039a Merge pull request #2888 from CSSEGISandData/Fix-US-Timeseries-Formats-Jul-18
-df79c981 Reset file format
-d436d6b1 Reset file format
+c5f8b57d Merge pull request #2893 from CSSEGISandData/Update-Guatemala-July-18
+84457935 Update Guatemala in line with new MSPAS reporting
+4b93d8bf Update Guatemala in line with new MSPAS reporting
+6125b9f1 Merge pull request #2892 from CSSEGISandData/2889-Reorder-PR-Unassigned
+bbfb53fc Moves Out of PR and Unassigned to sections at end of the US time series files
