@@ -1,5 +1,5 @@
-c5f8b57d Merge pull request #2893 from CSSEGISandData/Update-Guatemala-July-18
-84457935 Update Guatemala in line with new MSPAS reporting
-4b93d8bf Update Guatemala in line with new MSPAS reporting
-6125b9f1 Merge pull request #2892 from CSSEGISandData/2889-Reorder-PR-Unassigned
-bbfb53fc Moves Out of PR and Unassigned to sections at end of the US time series files
+051f8376 automated update
+adf97ebf automated update
+fce93596 Update README.md
+8e9fc0a0 Uganda notice
+b07cb5f9 update frequency
