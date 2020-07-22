@@ -1,5 +1,5 @@
-051f8376 automated update
-adf97ebf automated update
-fce93596 Update README.md
-8e9fc0a0 Uganda notice
-b07cb5f9 update frequency
+9e3fcb17 automated update
+08d0f371 automated update
+a2356a87 Merge pull request #2909 from CSSEGISandData/Fix-Phily-Jul-20
+cbf0fd19 Merge branch 'master' into Fix-Phily-Jul-20
+e268c878 Update PA with Phily DOH reporting for 7/20
