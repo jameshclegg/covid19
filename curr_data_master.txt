@@ -1,5 +1,5 @@
-9e3fcb17 automated update
-08d0f371 automated update
-a2356a87 Merge pull request #2909 from CSSEGISandData/Fix-Phily-Jul-20
-cbf0fd19 Merge branch 'master' into Fix-Phily-Jul-20
-e268c878 Update PA with Phily DOH reporting for 7/20
+217aa2cb automated update
+2ae2be07 Merge pull request #2915 from CSSEGISandData/2911-Update-Peru-Chile-July-20
+1103def0 Updates Chile and Peru July 20
+2e345d45 Merge pull request #2914 from CSSEGISandData/2908-Update-China
+8bd5b2f8 Update China July 16 - 21
