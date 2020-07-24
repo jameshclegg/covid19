@@ -1,5 +1,5 @@
-217aa2cb automated update
-2ae2be07 Merge pull request #2915 from CSSEGISandData/2911-Update-Peru-Chile-July-20
-1103def0 Updates Chile and Peru July 20
-2e345d45 Merge pull request #2914 from CSSEGISandData/2908-Update-China
-8bd5b2f8 Update China July 16 - 21
+da38e7b5 Merge pull request #2923 from CSSEGISandData/Update-Chile-July-22
+c59d8550 Update Chile for July 22
+605593ad Update README.md
+da671090 Update README.md
+61c9a5c7 Update README.md
