@@ -1,5 +1,5 @@
-da38e7b5 Merge pull request #2923 from CSSEGISandData/Update-Chile-July-22
-c59d8550 Update Chile for July 22
-605593ad Update README.md
-da671090 Update README.md
-61c9a5c7 Update README.md
+1f099251 automated update
+d602c347 automated update
+db3aada8 Merge pull request #2928 from CSSEGISandData/2925-Update-LA-Probables
+b182ea3c Update LA probables
+7d0edc4a Merge pull request #2927 from CSSEGISandData/2926-Fix-Lancaster
