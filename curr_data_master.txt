@@ -1,5 +1,5 @@
-1f099251 automated update
-d602c347 automated update
-db3aada8 Merge pull request #2928 from CSSEGISandData/2925-Update-LA-Probables
-b182ea3c Update LA probables
-7d0edc4a Merge pull request #2927 from CSSEGISandData/2926-Fix-Lancaster
+382e42db automated update
+c504f110 automated update
+a9d06dc0 Merge pull request #2934 from CSSEGISandData/Update-Val-Verde-July-21
+0d4b3753 Updates Val Verde County TX July 21-24
+083598d4 Merge pull request #2931 from CSSEGISandData/2929-Update-Brazil-Jul-25
