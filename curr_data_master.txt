@@ -1,5 +1,5 @@
-382e42db automated update
-c504f110 automated update
-a9d06dc0 Merge pull request #2934 from CSSEGISandData/Update-Val-Verde-July-21
-0d4b3753 Updates Val Verde County TX July 21-24
-083598d4 Merge pull request #2931 from CSSEGISandData/2929-Update-Brazil-Jul-25
+df9b74a6 automated update
+b4652d0f automated update
+32d716d6 Merge pull request #2938 from CSSEGISandData/Fix-Idaho-July-25
+b85c911b Updates Idaho July 25
+64675a7f Merge pull request #2937 from CSSEGISandData/Jul-26-Update-Oregon
