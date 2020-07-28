@@ -11,7 +11,7 @@ FILE_NAME_TEMPLATE = lambda st: f'time_series_covid19_{st:s}_global'
 DATA_TYPES = ['confirmed', 'deaths']
 EXT = '.csv'
 
-COUNTRIES = ['United Kingdom', 'Italy', 'Spain', 'Germany', 'France', 'US', 'China', 'Korea, South', 'Japan']
+COUNTRIES = ['United Kingdom', 'Brazil', 'Spain', 'Germany', 'India', 'US', 'Russia', 'South Africa', 'Mexico']
 
 MIN_CASES = 20  # don't calculate the confirmed doubling time if total n deaths less than this
 
