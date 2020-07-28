@@ -1,5 +1,5 @@
+f496e397 Update README.md
 df9b74a6 automated update
 b4652d0f automated update
 32d716d6 Merge pull request #2938 from CSSEGISandData/Fix-Idaho-July-25
 b85c911b Updates Idaho July 25
-64675a7f Merge pull request #2937 from CSSEGISandData/Jul-26-Update-Oregon
