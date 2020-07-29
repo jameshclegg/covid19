@@ -1,5 +1,5 @@
-f496e397 Update README.md
-df9b74a6 automated update
-b4652d0f automated update
-32d716d6 Merge pull request #2938 from CSSEGISandData/Fix-Idaho-July-25
-b85c911b Updates Idaho July 25
+06d8bb46 automated update
+b8c54542 automated update
+0911db66 Merge pull request #2951 from CSSEGISandData/2941-Update-Kosovo
+c62ce3c6 Updates Kosovo
+c4f4ff32 Updates Kosovo
