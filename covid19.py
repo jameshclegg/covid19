@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#import tweets
+import tweets
 import plotting
 import os
 import pandas as pd
@@ -164,7 +164,7 @@ def main():
     folder_name = plotting.plot(data)
 
     # tweet
-    #tweets.initialise_and_tweet(folder_name)
+    tweets.initialise_and_tweet(folder_name)
 
 
 if __name__ == '__main__':
