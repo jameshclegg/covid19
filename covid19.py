@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 
-import tweets
+#import tweets
 import plotting
 import os
 import pandas as pd
 import numpy as np
+import datetime
 
 PATH_TO_TIME_SERIES = r'../COVID-19/csse_covid_19_data/csse_covid_19_time_series'
 FILE_NAME_TEMPLATE = lambda st: f'time_series_covid19_{st:s}_global'
@@ -32,7 +33,7 @@ def get_data_frames():
         path = get_path(suffix)
         df = pd.read_csv(path)
         dfs.append(df)
-    
+
     return dfs
 
 
@@ -51,6 +52,8 @@ def get_stats(data_frames):
     
     data.dates = pd.to_datetime(extract_data(all_confirmed_data).columns, format=DATE_FORMAT)
     
+    first_date = datetime.datetime(year=2020, month=7, day=16)
+    data.dates = data.dates[data.dates > first_date]
     whole_world_confirmed = extract_data(all_confirmed_data).sum()
     whole_world_deaths = extract_data(all_deaths_data).sum()
     
@@ -74,16 +77,30 @@ def get_stats(data_frames):
 
         return data_vs_time
 
+    date_name = f"{first_date.month}/{first_date.day}/{first_date.strftime('%y')}"
+
     for c in COUNTRIES:
         here_confirmed = get_stats_by_country(all_confirmed_data, c)
         here_deaths = get_stats_by_country(all_deaths_data, c)
 
+        here_confirmed -= here_confirmed[date_name]
+        here_confirmed = here_confirmed[-len(data.dates):]
+
+        here_deaths -= here_deaths[date_name]
+        here_deaths = here_deaths[-len(data.dates):]
+
         data.confirmed_cases[c] = here_confirmed
         data.deaths[c] = here_deaths
     
+    whole_world_confirmed = whole_world_confirmed[-len(data.dates):]
+    whole_world_deaths = whole_world_deaths[-len(data.dates):]
+
     rest_of_world_confirmed = whole_world_confirmed - pd.DataFrame(data.confirmed_cases).transpose().sum()
     rest_of_world_deaths = whole_world_deaths - pd.DataFrame(data.deaths).transpose().sum()
     
+    rest_of_world_confirmed -= rest_of_world_confirmed[0]
+    rest_of_world_deaths -= rest_of_world_deaths[0]
+
     data.confirmed_cases['Rest of world'] = rest_of_world_confirmed
     data.deaths['Rest of world'] = rest_of_world_deaths
     
@@ -139,15 +156,15 @@ def main():
     # read in data from csv files. This returns a list of data frames.  
     # the list has one entry for each element in DATA_TYPES
     data_frames = get_data_frames()
-    
+
     # extract the data
     data = get_stats(data_frames)
-    
+
     # do plots
     folder_name = plotting.plot(data)
-    
+
     # tweet
-    tweets.initialise_and_tweet(folder_name)
+    #tweets.initialise_and_tweet(folder_name)
 
 
 if __name__ == '__main__':
