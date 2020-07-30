@@ -1,5 +1,6 @@
 COVID-19
 .ipynb_checkpoints/*
 twitterdevkeys.txt
+*.png
 __pycache__
 .vscode
