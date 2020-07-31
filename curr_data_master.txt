@@ -1,5 +1,5 @@
-1326d8d8 automated update
-063a9ff6 automated update
-feef5643 Merge pull request #2960 from CSSEGISandData/2940-Update-Brazil-July-3
-737d117b Updates Brazil July 3
-6860155c Update README.md
+154d29de automated update
+7427f3b4 automated update
+365822e2 Merge pull request #2966 from CSSEGISandData/2963-Update-Hidalgo
+64689f43 Updates Hidalgo TX
+0a557778 Updates Hidalgo TX
