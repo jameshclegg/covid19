@@ -1,5 +1,5 @@
-154d29de automated update
-7427f3b4 automated update
-365822e2 Merge pull request #2966 from CSSEGISandData/2963-Update-Hidalgo
-64689f43 Updates Hidalgo TX
-0a557778 Updates Hidalgo TX
+7090f145 automated update
+221b6b0a automated update
+d2589587 Merge pull request #2972 from CSSEGISandData/Update-Colombia-July-30
+fbed458e Updates Colombia July 30
+21f86158 Connecticut spike 07/29
