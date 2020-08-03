@@ -1,5 +1,5 @@
-4fd54d9d automated update
-ab9ce854 automated update
-7090f145 automated update
-221b6b0a automated update
-d2589587 Merge pull request #2972 from CSSEGISandData/Update-Colombia-July-30
+b3fda712 automated update
+e9ff574c automated update
+331cdcd8 Merge pull request #2980 from CSSEGISandData/2975-Update-Victoria
+15ff6e84 Updates Victoria Aug 1
+038e7b9c Merge pull request #2979 from CSSEGISandData/2976-Update-Philippines
