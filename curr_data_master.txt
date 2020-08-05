@@ -1,5 +1,5 @@
-bf279e18 automated update
-8a986e1a automated update
-14265414 Merge pull request #2985 from CSSEGISandData/2974-Update-Colombia-July-26
-b0aef54c Updates Colombia July 26
-7f4e7c52 Merge pull request #2984 from CSSEGISandData/2981-Update-Victoria
+bab9f081 automated update
+a42be334 automated update
+4b3ec6b8 Merge pull request #2988 from CSSEGISandData/Resolve-FIPS-Aug-4
+10ca9729 Reformat FIPS
+8a614cdb fix spikes
