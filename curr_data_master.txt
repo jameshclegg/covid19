@@ -1,5 +1,5 @@
+824ea3ba automated update
+3ce19b1d automated update
+caf54ddb Update README.md
 fd197e49 automated update
 309b82db automated update
-c122ac87 Merge pull request #2999 from CSSEGISandData/Update-Peru-Aug-6
-db4643c2 Updates Peru for Aug 6
-3b31db24 automated update
