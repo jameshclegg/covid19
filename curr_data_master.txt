@@ -1,5 +1,5 @@
-ce4e47c1 Automated update
-b24e3d57 Merge pull request #3020 from CSSEGISandData/Fix-RecoveredUS-FIPS-Aug11
-9709d7b9 Remove FIPS from Recovered US
-88d4108b Merge pull request #3018 from CSSEGISandData/Update-OrangeNC-Aug-11
-730f6a6f Update Orange NC Aug 11
+b9466377 Automated update
+48bb2dfb Update README.md
+94d35b45 Merge pull request #3025 from CSSEGISandData/Update-Orange-NC-Aug12
+8133ffd3 Update Orange NC Aug 12
+a9873cfb Merge pull request #3024 from CSSEGISandData/Update-MA-Aug-12
