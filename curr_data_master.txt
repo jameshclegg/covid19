@@ -1,5 +1,5 @@
-b9466377 Automated update
-48bb2dfb Update README.md
-94d35b45 Merge pull request #3025 from CSSEGISandData/Update-Orange-NC-Aug12
-8133ffd3 Update Orange NC Aug 12
-a9873cfb Merge pull request #3024 from CSSEGISandData/Update-MA-Aug-12
+4a4b2d9c Automated update
+03a80e4b Merge pull request #3031 from CSSEGISandData/3030-Update-US-Daily
+50ff817f Update MA
+47eeed8d Update UK 13/08/2020
+84b0dc33 84002060 population
