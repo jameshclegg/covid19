@@ -1,5 +1,5 @@
-4a4b2d9c Automated update
-03a80e4b Merge pull request #3031 from CSSEGISandData/3030-Update-US-Daily
-50ff817f Update MA
-47eeed8d Update UK 13/08/2020
-84b0dc33 84002060 population
+39ab5796 Automated update
+5dc235d0 Merge pull request #3035 from CSSEGISandData/Update-MA-Aug-15
+3fcb5864 Update MA for Aug 13-14
+2a28c9f5 Update README.md
+78ae9295 Update UK 14/08/2020
