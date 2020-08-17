@@ -1,5 +1,5 @@
-39ab5796 Automated update
-5dc235d0 Merge pull request #3035 from CSSEGISandData/Update-MA-Aug-15
-3fcb5864 Update MA for Aug 13-14
-2a28c9f5 Update README.md
-78ae9295 Update UK 14/08/2020
+2696ca2c Automated update
+b3817944 Merge pull request #3040 from CSSEGISandData/Pull-MA-Updates-Aug-16
+3da1bc55 Pulling in Aug 14 fixes for MA
+1aaef2d9 Merge pull request #3039 from CSSEGISandData/Fix-Dailies-Aug-15
+1b1b6eba Fix the dailies for Aug 14 and Aug 15
