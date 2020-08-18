@@ -1,5 +1,5 @@
-2696ca2c Automated update
-b3817944 Merge pull request #3040 from CSSEGISandData/Pull-MA-Updates-Aug-16
-3da1bc55 Pulling in Aug 14 fixes for MA
-1aaef2d9 Merge pull request #3039 from CSSEGISandData/Fix-Dailies-Aug-15
-1b1b6eba Fix the dailies for Aug 14 and Aug 15
+28bdf279 Automated update
+54e1f768 Update README.md
+0381fedb Update README.md
+eccad631 Update README.md
+d59962bc Update README.md
