@@ -1,5 +1,5 @@
-28bdf279 Automated update
-54e1f768 Update README.md
-0381fedb Update README.md
-eccad631 Update README.md
-d59962bc Update README.md
+553ad7c4 Automated update
+e2998420 Merge pull request #3044 from CSSEGISandData/3041-Update-Brazil-Aug-14
+2c2f4af4 Update Brazil Aug 14
+bd16c105 update who readme
+0e803dbf added other deaths
