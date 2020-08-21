@@ -1,5 +1,5 @@
+164a110f Automated update
+dd98296e Update 08-18-2020.csv
 b7ffac4f Automated update
 60650a32 Update 08-18-2020.csv
 818a50b0 Update 08-18-2020.csv
-0acc6f17 Update time_series_covid19_confirmed_US.csv
-77302129 Update README.md
