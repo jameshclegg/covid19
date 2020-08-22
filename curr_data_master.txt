@@ -1,5 +1,5 @@
+e634d627 Automated update
+0c537803 Update README.md
+ca5242a7 Update README.md
 164a110f Automated update
 dd98296e Update 08-18-2020.csv
-b7ffac4f Automated update
-60650a32 Update 08-18-2020.csv
-818a50b0 Update 08-18-2020.csv
