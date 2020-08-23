@@ -1,5 +1,5 @@
-e634d627 Automated update
-0c537803 Update README.md
-ca5242a7 Update README.md
-164a110f Automated update
-dd98296e Update 08-18-2020.csv
+4eb0bbe2 Automated update
+9fb02aa3 Merge pull request #3061 from CSSEGISandData/Update-CO-Deaths-Aug-21
+89764cf7 Update CO Deaths Aug 21
+a1f000d9 Update README.md
+fae2f04e Update README.md
