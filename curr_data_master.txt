@@ -1,5 +1,5 @@
+8cbbe1c8 Automated update
+d5b8eb4c Update README.md
 a10636a9 Automated update
 4eb0bbe2 Automated update
 9fb02aa3 Merge pull request #3061 from CSSEGISandData/Update-CO-Deaths-Aug-21
-89764cf7 Update CO Deaths Aug 21
-a1f000d9 Update README.md
