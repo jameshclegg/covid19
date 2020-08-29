@@ -1,5 +1,5 @@
-c5293161 Automated update
-986907fd Merge pull request #3076 from CSSEGISandData/patch-08-18-us-daily
-257b07b9 Fixing the date format for the 08-18 glb daily report
-9d98ac23 Fixing the date format for the 08-18 us daily report
-2630c05f Align with US entry for confirmed_us.csv
+37b2fa02 Automated update
+46b24fba Update README.md
+75889494 Update Sweden (2)
+ee22e849 Update Sweden
+0ee9dd4b Update Sweden
