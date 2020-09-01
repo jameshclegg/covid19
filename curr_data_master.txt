@@ -1,5 +1,5 @@
+726c5975 Automated update
+1f90f7e4 Align time series files with Borough level data for New York City
+b7d73bb8 adjust NYC
 b6cf765a Automated update
 56f5b3ce Automated update
-4070863d Update README.md
-37b2fa02 Automated update
-46b24fba Update README.md
