@@ -1,5 +1,5 @@
-0bf4d22e Automated update
-ac8e47e0 Update README.md
-6ed3d6d3 Automated update
-31d74e0f Automated update
-03bf0d5b Update Errata.csv
+968f9e62 Automated update
+4b249731 Update Colombia 9/07, 9/05, 9/04, 8/22
+b7ab41ad Update Errata Colombia dates
+097a74fb Update Colombia 9/07, 9/05, 9/04, 8/22
+d588d404 Update Colombia 8/22, 9/04, 9/05, 9/07
