@@ -1,5 +1,5 @@
-29b85c49 Automated update
-ab1ca597 Adjust Colorado, Texas September 11-12
-e36518c5 Update README.md
-a6f4ba49 Update README.md
-5e9200bd Automated update
+7c7f9d84 Automated update
+80fa13de Update README.md
+696ce78f Update India 9/13
+f25f4a49 Update India 9/13
+98bf38de Update India 9/13
