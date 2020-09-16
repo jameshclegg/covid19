@@ -1,5 +1,5 @@
+aa984b73 Automated update
+d92b2460 Update README.md
+14ead6c0 Merge pull request #3117 from CSSEGISandData/Idaho_Fix_For_09142020
+33b3be9f Update Idaho data for 09/14
 7c7f9d84 Automated update
-80fa13de Update README.md
-696ce78f Update India 9/13
-f25f4a49 Update India 9/13
-98bf38de Update India 9/13
