@@ -1,5 +1,5 @@
-aa984b73 Automated update
-d92b2460 Update README.md
-14ead6c0 Merge pull request #3117 from CSSEGISandData/Idaho_Fix_For_09142020
-33b3be9f Update Idaho data for 09/14
-7c7f9d84 Automated update
+b5360e17 Automated update
+3a5aaeac Update README.md
+acd19d58 Update README.md
+23ec9918 Merge pull request #3124 from CSSEGISandData/Alabama_Fix_For_09152020_DR
+7187965c update daily reports for Alabama
