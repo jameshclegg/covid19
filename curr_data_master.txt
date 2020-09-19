@@ -1,5 +1,5 @@
-f0b934b2 Merge branch 'master' of https://github.com/CSSEGISandData/COVID-19
-7ae4fa80 update readme
-be179935 Merge pull request #3127 from CSSEGISandData/AlabamaFix_For_09152020_updated
-bdc3b44b update timeseries data for 09/15 Alabama data
-d61e8c81 Merge pull request #3126 from CSSEGISandData/AlabamaFix_For_09152020_updated
+e639c6ac Automated update
+e98a9e4e Merge pull request #3130 from CSSEGISandData/Alabama-Fix-For-09-15-DR-and-Timeseries
+ceacbb89 update Alabama data for 0915, daily report and timeseries
+298a5fa3 Alabama fix for 0915, daily report and timeseries
+d903bdfc Fix India 9/14-18
