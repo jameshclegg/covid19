@@ -1,5 +1,5 @@
-cb9b5cec Automated update
-e639c6ac Automated update
-e98a9e4e Merge pull request #3130 from CSSEGISandData/Alabama-Fix-For-09-15-DR-and-Timeseries
-ceacbb89 update Alabama data for 0915, daily report and timeseries
-298a5fa3 Alabama fix for 0915, daily report and timeseries
+c2fbdef2 Merge pull request #3136 from CSSEGISandData/Fix_AZ_09192020_Data
+d9602fd4 Fix AZ data for 09-19-2020
+60ad1e1c Automated update
+af8579d4 Fix India 9/18-19
+583afd71 Fix India 9/18-19
