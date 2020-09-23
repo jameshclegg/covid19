@@ -1,5 +1,5 @@
-998bc7d5 Automated update
-b4744566 Merge pull request #3141 from CSSEGISandData/Fix2_0919_0920_WI_Data
-3e763e76 fixing WI data
-6677fbe7 Update India
-86be43cd Update India
+ca0313ce Automated update
+7d7cde32 Update README.md
+eb19371e Update Massachusetts all dates
+85022c6b Update README.md
+4b2d109a Update India
