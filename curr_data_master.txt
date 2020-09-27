@@ -1,5 +1,5 @@
+22b4b512 Automated update
+1623d443 Update Bexar County, Texas 9/22
 36a033cf Automated update
 2f3f6e49 Merge pull request #3162 from CSSEGISandData/Fix_WI_0915_0917_Data
 633a64b1 update errata
-a15087fd Merge pull request #3161 from CSSEGISandData/Fix_WI_0915_0917_Data
-542952ce update global deaths
