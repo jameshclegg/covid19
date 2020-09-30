@@ -1,5 +1,5 @@
+d6da6729 Automated update
+212a0d34 Update README.md
+e7e55ba4 Update India
 34df731f Automated update
 95d4b489 Nullify unknown, netherlands
-a9467365 Update Kings County, New York Latitude
-01ea083f Update India entries in daily reports to align with time series
-5f089ccf Update time_series_covid19_recovered_global.csv
