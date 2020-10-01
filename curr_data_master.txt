@@ -1,5 +1,5 @@
-d6da6729 Automated update
-212a0d34 Update README.md
-e7e55ba4 Update India
-34df731f Automated update
-95d4b489 Nullify unknown, netherlands
+43f2daa3 Automated update
+d2666f88 Merge pull request #3178 from CSSEGISandData/patch-time-series-dates
+c1b3a917 Patch dates from India fixes
+f4e8c30a Update India
+bceb34a8 Update India
