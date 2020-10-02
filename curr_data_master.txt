@@ -1,5 +1,5 @@
-43f2daa3 Automated update
-d2666f88 Merge pull request #3178 from CSSEGISandData/patch-time-series-dates
-c1b3a917 Patch dates from India fixes
-f4e8c30a Update India
-bceb34a8 Update India
+1f1454ef Automated update
+663bcf90 Recreate North Carolina
+2e83014b Update Idaho Deaths September 9
+ae42b064 Update README.md
+b8d2f3a3 Update README.md
