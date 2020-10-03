@@ -1,5 +1,5 @@
-1f1454ef Automated update
-663bcf90 Recreate North Carolina
-2e83014b Update Idaho Deaths September 9
-ae42b064 Update README.md
-b8d2f3a3 Update README.md
+599d73b2 Automated update
+c6a99666 Update README.md
+b3b39917 Update README.md
+2a095ea9 Patch out of NC, NC and unassigned, NC
+dd1c7717 Update India
