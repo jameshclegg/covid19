@@ -1,5 +1,5 @@
-775149c7 Automated update
-9743835d Update README.md
-92a495e4 Update NH probable cases
-12615b12 Update India
-7f21213d Update India
+6aed8c36 Automated update
+b132cd04 Update README.md
+31c794b0 Merge pull request #3192 from CSSEGISandData/DC_Fix_1001_1003
+d2b385d0 update daily reports and timeseries for DC 1001 1002 1003
+36f1fc37 Update India
