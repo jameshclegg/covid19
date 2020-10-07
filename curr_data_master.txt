@@ -1,5 +1,5 @@
-864d0a21 Automated update
-3d40a382 Update Errata.csv
-9f80f5ce Update Errata.csv
-9a909a9d Update Unknown, Netherlands
-a4abcd49 Update Unknown, Netherlands
+927ccdb8 Automated update
+c29cd561 Liechtenstein 06/30
+6e65bbc2 Liechtenstein 06/30
+9804aa84 Merge pull request #3200 from CSSEGISandData/automated-patch-for-delayed-data-10-05-2020
+429d5e8a Automated update for delayed data
