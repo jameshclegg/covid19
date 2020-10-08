@@ -1,5 +1,5 @@
-927ccdb8 Automated update
-c29cd561 Liechtenstein 06/30
-6e65bbc2 Liechtenstein 06/30
-9804aa84 Merge pull request #3200 from CSSEGISandData/automated-patch-for-delayed-data-10-05-2020
-429d5e8a Automated update for delayed data
+ffa14466 Automated update
+19f57492 update readme
+2b45fabe Merge pull request #3209 from CSSEGISandData/KS_Fix_1006
+e59694b8 Fix KS data
+75b6beb8 Merge pull request #3206 from CSSEGISandData/automated-patch-for-delayed-data-10-07-2020
