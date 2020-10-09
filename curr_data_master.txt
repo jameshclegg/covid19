@@ -1,5 +1,5 @@
-ffa14466 Automated update
-19f57492 update readme
-2b45fabe Merge pull request #3209 from CSSEGISandData/KS_Fix_1006
-e59694b8 Fix KS data
-75b6beb8 Merge pull request #3206 from CSSEGISandData/automated-patch-for-delayed-data-10-07-2020
+11eb5760 Automated update
+3e9cf50c update errata
+2819a062 update kosovo
+e770ca0a update kosovo
+607f3693 Update README.md
