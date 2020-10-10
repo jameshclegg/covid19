@@ -1,5 +1,5 @@
+90ba6729 Automated update
+5b80aa29 update Northern Territory
+7faaac05 Merge pull request #3218 from CSSEGISandData/automated-patch-for-delayed-data-10-08-2020
+91c817d7 Automated update for delayed data
 11eb5760 Automated update
-3e9cf50c update errata
-2819a062 update kosovo
-e770ca0a update kosovo
-607f3693 Update README.md
