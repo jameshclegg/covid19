@@ -1,5 +1,5 @@
-efc8c8c9 Automated update
-9d75a632 add SB
-66f09871 Merge pull request #3220 from CSSEGISandData/automated-patch-for-delayed-data-10-10-2020
-83137abd Automated update for delayed data
-e53208d6 Automated update
+705e7688 Automated update
+4b575cd6 Merge pull request #3225 from CSSEGISandData/Brazil_Fix_1010
+9ac9b9b2 Update Brazil data
+209fc7cb Update README.md
+9d81f62c Merge pull request #3224 from CSSEGISandData/automated-patch-for-delayed-data-10-11-2020
