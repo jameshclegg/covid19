@@ -1,5 +1,5 @@
-705e7688 Automated update
-4b575cd6 Merge pull request #3225 from CSSEGISandData/Brazil_Fix_1010
-9ac9b9b2 Update Brazil data
-209fc7cb Update README.md
-9d81f62c Merge pull request #3224 from CSSEGISandData/automated-patch-for-delayed-data-10-11-2020
+4659d53b Automated update
+43f95a38 Merge pull request #3233 from CSSEGISandData/Fix-FIPS
+6425ce4b Update time_series_covid19_deaths_US.csv
+b9cd60fc Fix FIPS
+b2d965f0 donate link
