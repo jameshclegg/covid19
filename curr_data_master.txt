@@ -1,5 +1,5 @@
+b8bb79da Automated update
+90ed975e Update README.md
+2343b41f Merge pull request #3234 from CSSEGISandData/automated-patch-for-delayed-data-10-13-2020
+7fb490f0 Automated update for delayed data
 4659d53b Automated update
-43f95a38 Merge pull request #3233 from CSSEGISandData/Fix-FIPS
-6425ce4b Update time_series_covid19_deaths_US.csv
-b9cd60fc Fix FIPS
-b2d965f0 donate link
