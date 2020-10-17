@@ -1,5 +1,5 @@
+fc165256 Automated update
+68abfddc Update README.md
+0314b2f4 Merge pull request #3241 from CSSEGISandData/automated-patch-for-delayed-data-10-15-2020
+8f3ecf37 Automated update for delayed data
 5607181d Automated update
-8186bc4e Merge pull request #3240 from CSSEGISandData/Luxembourg_Fix_10081014
-3e5134db Update Luxembourg data for 1008 - 1014
-2be0287e Update Errata.csv
-b5440717 Merge pull request #3239 from CSSEGISandData/Update_Colombia_9/8
