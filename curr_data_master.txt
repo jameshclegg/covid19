@@ -1,5 +1,5 @@
-45830f51 Automated update
-6bf1e73a Update README.md
-7cdd43af Merge pull request #3246 from CSSEGISandData/automated-patch-for-delayed-data-10-17-2020
-23691d2b Automated update for delayed data
-61f3fc3e Automated update
+f80ff6a3 Automated update
+53233d1f Update UID_ISO_FIPS_LookUp_Table.csv
+e988d3d4 typo
+286d5a1d update bristol bay
+a2e5140e rename Bristol Bay
