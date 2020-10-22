@@ -1,5 +1,5 @@
-761024ea Automated update
-e753d538 84002060 and 84002164 population
-adb3f781 Bristol Bay plus Lake Peninsula
-6f45d7e9 Update README.md
-204864bc update readme
+6c2bea59 Automated update
+e2eeef2f update kosovo
+fd804053 update kosovo
+a89caf06 update Kosovo
+c9ee1dea Merge pull request #3252 from CSSEGISandData/automated-patch-for-delayed-data-10-20-2020
