@@ -1,5 +1,5 @@
+1ab6ebfd Automated update
+04ddfb93 Update README.md
+1e675886 Merge pull request #3258 from CSSEGISandData/automated-patch-for-delayed-data-10-21-2020
+a9917115 Automated update for delayed data
 6c2bea59 Automated update
-e2eeef2f update kosovo
-fd804053 update kosovo
-a89caf06 update Kosovo
-c9ee1dea Merge pull request #3252 from CSSEGISandData/automated-patch-for-delayed-data-10-20-2020
