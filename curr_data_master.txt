@@ -1,5 +1,5 @@
+2597510d Automated update
+f0311be0 Update README.md
+b136b034 Merge pull request #3262 from CSSEGISandData/automated-patch-for-delayed-data-10-23-2020
+fbdddf96 Automated update for delayed data
 86149304 Automated update
-2e64f375 Merge pull request #3260 from CSSEGISandData/automated-patch-for-delayed-data-10-22-2020
-d1dd8c85 Automated update for delayed data
-1ab6ebfd Automated update
-04ddfb93 Update README.md
