@@ -1,5 +1,5 @@
-78e70507 Automated update
-0c29b5b8 Merge pull request #3270 from CSSEGISandData/README-patch
-39c728fa Update README.md
-6e87658b Merge pull request #3268 from CSSEGISandData/automated-patch-for-delayed-data-10-24-2020
-9b5b0cb0 Automated update for delayed data
+9458c546 Automated update
+808b9769 Update README.md
+fbad368d Update README.md
+d8469103 update kosovo
+54b4df02 Update README.md
