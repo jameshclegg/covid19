@@ -1,5 +1,5 @@
-9458c546 Automated update
-808b9769 Update README.md
-fbad368d Update README.md
-d8469103 update kosovo
-54b4df02 Update README.md
+9435b509 Automated update
+817db4d7 add Hoonah-Angoon, Alaska 10/26
+3a1f0e85 add Alaska non-resident cases
+662009e2 Delete Report_Date.csv
+ec845444 add Alaska non-resident cases
