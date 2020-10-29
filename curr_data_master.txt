@@ -1,5 +1,5 @@
-9435b509 Automated update
-817db4d7 add Hoonah-Angoon, Alaska 10/26
-3a1f0e85 add Alaska non-resident cases
-662009e2 Delete Report_Date.csv
-ec845444 add Alaska non-resident cases
+6cde7138 Automated update
+caa60273 Update UID_ISO_FIPS_LookUp_Table.csv
+06b30b92 Update README.md
+01cebce8 add MHL
+08876d1d adjust Alaska data to collection date
