@@ -1,5 +1,5 @@
-6cde7138 Automated update
-caa60273 Update UID_ISO_FIPS_LookUp_Table.csv
-06b30b92 Update README.md
-01cebce8 add MHL
-08876d1d adjust Alaska data to collection date
+5600eb73 Automated update
+603147ea Merge pull request #3289 from CSSEGISandData/BelgiumFix_10261028
+8909a801 udate Belgium data for 1026-1028
+9dc221a7 update lookup table with Belgium provinces
+16246b15 Merge pull request #3281 from CSSEGISandData/Time_series_patch
