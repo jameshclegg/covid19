@@ -1,5 +1,5 @@
+24e170d6 Automated update
+e8449d0a Update README.md
+a57fe0b9 Merge pull request #3290 from CSSEGISandData/patch-franklin-va-data
+26ff8f8b Update Franklin VA data for 0822-1028
 5600eb73 Automated update
-603147ea Merge pull request #3289 from CSSEGISandData/BelgiumFix_10261028
-8909a801 udate Belgium data for 1026-1028
-9dc221a7 update lookup table with Belgium provinces
-16246b15 Merge pull request #3281 from CSSEGISandData/Time_series_patch
