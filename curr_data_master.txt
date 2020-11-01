@@ -1,5 +1,5 @@
-24e170d6 Automated update
-e8449d0a Update README.md
-a57fe0b9 Merge pull request #3290 from CSSEGISandData/patch-franklin-va-data
-26ff8f8b Update Franklin VA data for 0822-1028
-5600eb73 Automated update
+3d6ea304 Automated update
+4df716ca Update Errata.csv
+c5b4d51a Update Colombia 10/30
+ea47dd4d Update README.md
+92857c1b Update Germany
