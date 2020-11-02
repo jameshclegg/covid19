@@ -1,5 +1,5 @@
+5d19cc7d Automated update
+015768da Merge pull request #3294 from CSSEGISandData/automated-patch-for-delayed-data-10-31-2020
+3941b35d Automated update for delayed data
 3d6ea304 Automated update
 4df716ca Update Errata.csv
-c5b4d51a Update Colombia 10/30
-ea47dd4d Update README.md
-92857c1b Update Germany
