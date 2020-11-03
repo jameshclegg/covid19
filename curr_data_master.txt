@@ -1,5 +1,5 @@
-5d19cc7d Automated update
-015768da Merge pull request #3294 from CSSEGISandData/automated-patch-for-delayed-data-10-31-2020
-3941b35d Automated update for delayed data
-3d6ea304 Automated update
-4df716ca Update Errata.csv
+cdcf77f1 Merge pull request #3299 from CSSEGISandData/IL_Fix_10311101
+1e9f3717 fixing IL data for 10-31
+0d0beb99 Merge pull request #3297 from CSSEGISandData/Colombia_time_series_fix
+2d9c06dd Update Errata.csv
+e6e69af8 Update time_series_covid19_recovered_global.csv
