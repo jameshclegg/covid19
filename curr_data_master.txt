@@ -1,5 +1,5 @@
-cdcf77f1 Merge pull request #3299 from CSSEGISandData/IL_Fix_10311101
-1e9f3717 fixing IL data for 10-31
-0d0beb99 Merge pull request #3297 from CSSEGISandData/Colombia_time_series_fix
-2d9c06dd Update Errata.csv
-e6e69af8 Update time_series_covid19_recovered_global.csv
+b8c87384 Automated update
+ed8dda48 Merge pull request #3307 from CSSEGISandData/patch-int-colorado-0525-1102
+c2b76203 Update README.md
+06548f56 Patch International, Colorado 0525-1102
+4d43677f Merge pull request #3306 from CSSEGISandData/patch-lander-nv-1023-1102
