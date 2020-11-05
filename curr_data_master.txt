@@ -1,5 +1,5 @@
-b8c87384 Automated update
-ed8dda48 Merge pull request #3307 from CSSEGISandData/patch-int-colorado-0525-1102
-c2b76203 Update README.md
-06548f56 Patch International, Colorado 0525-1102
-4d43677f Merge pull request #3306 from CSSEGISandData/patch-lander-nv-1023-1102
+28f1a451 Merge pull request #3313 from CSSEGISandData/CRLF-remove
+83749ab2 Remove CRLF
+18bccbcc Remove CRLF
+bc7e07b0 Remove CRLF character
+56909341 Update German data
