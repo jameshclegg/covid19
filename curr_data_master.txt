@@ -1,5 +1,5 @@
+70406f3a Automated update
 578b0560 Automated update
 d4d9c791 Update README.md
 e8d823ef Automated update
 59255d07 Merge pull request #3315 from CSSEGISandData/Update-France-cases-11/2-3/20
-f09e87fe Update Errata.csv
