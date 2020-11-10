@@ -1,5 +1,5 @@
-4067ce97 Automated update
-392363f6 Merge pull request #3324 from CSSEGISandData/PR_Fix
-65df1ae3 fix PR data
-70406f3a Automated update
-578b0560 Automated update
+9c381dd2 Automated update
+cd825065 Merge pull request #3331 from CSSEGISandData/patch-wi-1019-1108
+415dea50 Update readme
+c574d00e Patch WI probables until 1019
+25c9b5f9 Patch NY deaths 0921 to 1108
