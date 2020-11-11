@@ -1,5 +1,5 @@
-9c381dd2 Automated update
-cd825065 Merge pull request #3331 from CSSEGISandData/patch-wi-1019-1108
-415dea50 Update readme
-c574d00e Patch WI probables until 1019
-25c9b5f9 Patch NY deaths 0921 to 1108
+585e641d Automated update
+e21d9e68 Merge pull request #3343 from CSSEGISandData/LA_Probable_Update
+7e818d22 Updates Louisiana probable cases
+ba3a46c4 add Vanuatu
+ae549b60 Merge pull request #3342 from CSSEGISandData/Update-Hawaii-Probable
