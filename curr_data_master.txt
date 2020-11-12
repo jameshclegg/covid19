@@ -1,5 +1,5 @@
-585e641d Automated update
-e21d9e68 Merge pull request #3343 from CSSEGISandData/LA_Probable_Update
-7e818d22 Updates Louisiana probable cases
-ba3a46c4 add Vanuatu
-ae549b60 Merge pull request #3342 from CSSEGISandData/Update-Hawaii-Probable
+411e43dac Automated update
+430f9511f Merge pull request #3351 from CSSEGISandData/NewYorkFix
+eadb73a16 fix to NY data
+aae779b46 Merge pull request #3349 from CSSEGISandData/3346-Correct-Deaths-Nov-9
+71e6d8bf9 Update Errata.csv
