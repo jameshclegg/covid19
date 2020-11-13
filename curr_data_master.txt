@@ -1,5 +1,5 @@
-411e43dac Automated update
-430f9511f Merge pull request #3351 from CSSEGISandData/NewYorkFix
-eadb73a16 fix to NY data
-aae779b46 Merge pull request #3349 from CSSEGISandData/3346-Correct-Deaths-Nov-9
-71e6d8bf9 Update Errata.csv
+db88a691d Automated update
+cf3adbb21 Merge pull request #3359 from CSSEGISandData/WI-Update-Prob-Deaths-Nov-12
+fb7041b8d Distributes Wisconsin Probable Deaths
+89a06bab1 Merge pull request #3358 from CSSEGISandData/GA_WI_Fix_1111
+89c23b83d Fix to GA WI deaths
