@@ -1,5 +1,5 @@
-db88a691d Automated update
-cf3adbb21 Merge pull request #3359 from CSSEGISandData/WI-Update-Prob-Deaths-Nov-12
-fb7041b8d Distributes Wisconsin Probable Deaths
-89a06bab1 Merge pull request #3358 from CSSEGISandData/GA_WI_Fix_1111
-89c23b83d Fix to GA WI deaths
+c32d3616c Automated update
+fa35fe800 Update README.md
+aa86ec953 Update README.md
+a109b5fe6 Update README.md
+f1d7a3f25 Merge pull request #3364 from CSSEGISandData/patch-ga-probables-1103-1112
