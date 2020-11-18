@@ -1,5 +1,5 @@
+61e92c1e4 Automated update
+44895a18a Update Errata.csv
+aa0c14410 Merge pull request #3380 from CSSEGISandData/LA_Fix_1116
+db1b1dcb5 fix LA data for 11162020
 83c3e3550 Automated update
-fe321d2c0 Merge pull request #3377 from CSSEGISandData/patch-webb-tx-deaths-0329-1115
-adacf954e Patch Webb, TX deaths 0329-1115
-0a9f6205f update france
-f89cbedd5 update france
