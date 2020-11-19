@@ -1,5 +1,5 @@
-61e92c1e4 Automated update
-44895a18a Update Errata.csv
-aa0c14410 Merge pull request #3380 from CSSEGISandData/LA_Fix_1116
-db1b1dcb5 fix LA data for 11162020
-83c3e3550 Automated update
+325e61058 Automated update
+6fd358a8a Merge pull request #3381 from CSSEGISandData/patch-alabama-data-probables
+704700172 Merge branch 'master' into patch-alabama-data-probables
+d98cf7f75 Fix AL Unassigned
+3bda180f2 update PR population
