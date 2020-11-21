@@ -1,5 +1,5 @@
+73bb9439b Automated update
+0c2a13afb Update UID_ISO_FIPS_LookUp_Table.csv
+9eead5d39 add Nunavut
 b6dd82745 Automated update
 325e61058 Automated update
-6fd358a8a Merge pull request #3381 from CSSEGISandData/patch-alabama-data-probables
-704700172 Merge branch 'master' into patch-alabama-data-probables
-d98cf7f75 Fix AL Unassigned
