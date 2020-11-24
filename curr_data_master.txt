@@ -1,5 +1,5 @@
-2120332bd Automated update
-29546b25e Merge pull request #3389 from CSSEGISandData/patch-tx-brazos-denton-dallas-probables
-9ab063c53 Update README.md
-0f350d2dd Update TX probable cases for Brazos, Denton, and Dallas
-9898e249f Automated update
+27553fa75 Automated update
+ab49d7b83 Merge pull request #3392 from CSSEGISandData/patch-nunavut-canada-source-correction
+701007310 Patch Nunavut Canada data
+5efd21426 Merge pull request #3391 from CSSEGISandData/patch-nunavut-canada
+788320955 Update README
