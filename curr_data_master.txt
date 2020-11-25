@@ -1,5 +1,5 @@
-27553fa75 Automated update
-ab49d7b83 Merge pull request #3392 from CSSEGISandData/patch-nunavut-canada-source-correction
-701007310 Patch Nunavut Canada data
-5efd21426 Merge pull request #3391 from CSSEGISandData/patch-nunavut-canada
-788320955 Update README
+46aff30cc Automated update
+d681a3462 Merge pull request #3397 from CSSEGISandData/LA_Fix_1115
+53cef6db8 fix LA 1115
+d1c0e35bf Merge pull request #3395 from CSSEGISandData/patch-titus-tx
+341c781c6 Patch Titus, TX cases 0522-1123
