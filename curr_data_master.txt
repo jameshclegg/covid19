@@ -1,5 +1,5 @@
-839995a27 Automated update
-a54f960a7 Automated update
-46aff30cc Automated update
-d681a3462 Merge pull request #3397 from CSSEGISandData/LA_Fix_1115
-53cef6db8 fix LA 1115
+3ecbb15f3 Automated update
+6eeea3316 Merge pull request #3400 from CSSEGISandData/Update_Laos
+98b771f66 Update Laos
+d78b1d112 Update Laos
+834759342 Update 11-23-2020.csv
