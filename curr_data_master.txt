@@ -1,5 +1,5 @@
+b6bf3226c Automated update
 402a1083d Automated update
 3ecbb15f3 Automated update
 6eeea3316 Merge pull request #3400 from CSSEGISandData/Update_Laos
 98b771f66 Update Laos
-d78b1d112 Update Laos
