@@ -1,5 +1,5 @@
-8cd1f421d Automated update
-38a1829ce Automated update
-760411192 add Samoa
-a2c0a5e38 Update README.md
-b6bf3226c Automated update
+0f63fd228 Automated update
+1b50b455c Merge pull request #3412 from CSSEGISandData/patch-afghanistan
+1949f695e Update readme for Afghanistan patch
+054bb986e Patch Afghanistan time series
+d70f32508 Merge pull request #3407 from CSSEGISandData/automated-patch-for-delayed-data-12-01-2020
