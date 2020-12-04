@@ -1,5 +1,5 @@
-0f63fd228 Automated update
-1b50b455c Merge pull request #3412 from CSSEGISandData/patch-afghanistan
-1949f695e Update readme for Afghanistan patch
-054bb986e Patch Afghanistan time series
-d70f32508 Merge pull request #3407 from CSSEGISandData/automated-patch-for-delayed-data-12-01-2020
+fb9d33d34 Automated update
+61465b2a5 Merge pull request #3422 from CSSEGISandData/patch-ak-cases-1203
+6d70ba99a Patch AK data for total cases
+bac4141f1 update france
+bfdd0de5f Merge pull request #3415 from CSSEGISandData/NV_Fix_1202
