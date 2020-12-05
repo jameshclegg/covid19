@@ -1,5 +1,5 @@
-fb9d33d34 Automated update
-61465b2a5 Merge pull request #3422 from CSSEGISandData/patch-ak-cases-1203
-6d70ba99a Patch AK data for total cases
-bac4141f1 update france
-bfdd0de5f Merge pull request #3415 from CSSEGISandData/NV_Fix_1202
+a86e53eec Automated update
+78c3ebd12 Merge pull request #3429 from CSSEGISandData/patch-israel-1204
+0be20beab Fix log message
+4a5e38b05 Update README for Israel
+08fcf1f48 Patch Israel data from source
