@@ -1,5 +1,5 @@
+b5622532b Automated update
+b30193b42 Update README.md
 a86e53eec Automated update
 78c3ebd12 Merge pull request #3429 from CSSEGISandData/patch-israel-1204
 0be20beab Fix log message
-4a5e38b05 Update README for Israel
-08fcf1f48 Patch Israel data from source
