@@ -1,5 +1,5 @@
-09c6c2b74 Automated update
-b5622532b Automated update
-b30193b42 Update README.md
-a86e53eec Automated update
-78c3ebd12 Merge pull request #3429 from CSSEGISandData/patch-israel-1204
+81f5d9866 Automated update
+37e71255f Merge pull request #3432 from CSSEGISandData/patch-samoa
+2ec47d092 Added Samoa to README
+d8cec350e Add Samoa
+17a47e8e2 Update README.md
