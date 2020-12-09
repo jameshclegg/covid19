@@ -1,5 +1,5 @@
-81f5d9866 Automated update
-37e71255f Merge pull request #3432 from CSSEGISandData/patch-samoa
-2ec47d092 Added Samoa to README
-d8cec350e Add Samoa
-17a47e8e2 Update README.md
+2b13301b9 Automated update
+559af13c2 Merge pull request #3435 from CSSEGISandData/patch-western-sahara-1208
+5d3de6b3e Removing Western Sahara
+d854bc635 Merge pull request #3434 from CSSEGISandData/patch-nh-1208
+12a378a02 Update NH 1129 to 1206
