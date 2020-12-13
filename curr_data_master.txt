@@ -1,5 +1,5 @@
+7a1ff3d2b Automated update
+bada0ae81 Update Errata.csv
+f11e9c5d6 Update time_series_covid19_confirmed_global.csv
+0bb20e207 Update README.md
 7aa483d1a Automated update
-f62a87171 Merge pull request #3453 from CSSEGISandData/AZFix_1210
-234ef4aa1 fix AZ testing data
-36285bce2 Automated update
-10601d912 Automated update
