@@ -1,5 +1,5 @@
-e7ba2d392 Automated update
-92b894868 update dallas county, tx deaths
-dda515857 Update README.md
-947073f77 Update README.md
-7a1ff3d2b Automated update
+9f2e9c9dd Automated update
+f7226df8b Merge pull request #3462 from CSSEGISandData/patch-hays-dallas-tx-1214
+468cb7ac6 Patch Hays probables, Dallas probable deaths, Fort Bend probables
+074c68d93 Merge pull request #3461 from CSSEGISandData/patch-texas-probables-1214
+071213bd1 Patch Texas Probables back distro to Nov 1
