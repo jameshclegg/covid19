@@ -1,5 +1,5 @@
-9f2e9c9dd Automated update
-f7226df8b Merge pull request #3462 from CSSEGISandData/patch-hays-dallas-tx-1214
-468cb7ac6 Patch Hays probables, Dallas probable deaths, Fort Bend probables
-074c68d93 Merge pull request #3461 from CSSEGISandData/patch-texas-probables-1214
-071213bd1 Patch Texas Probables back distro to Nov 1
+62b8a3e1e Automated update
+680f4ee73 Update README.md
+33eef05eb Merge pull request #3470 from CSSEGISandData/patch-france-and-fot-1215
+12e4d8e21 Patch France and French Overseas Territories 1215
+19b75220f Merge pull request #3469 from CSSEGISandData/patch-ny-rockland-orange-1215
