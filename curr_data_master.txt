@@ -1,5 +1,5 @@
-8ee160440 Automated update
-62b8a3e1e Automated update
-680f4ee73 Update README.md
-33eef05eb Merge pull request #3470 from CSSEGISandData/patch-france-and-fot-1215
-12e4d8e21 Patch France and French Overseas Territories 1215
+8ab1f700b Automated update
+83c73845d Merge pull request #3473 from CSSEGISandData/patch-wa-probables-1217
+e0bf1df4f Update README
+985c54341 Update death distribution WA
+87cb5042d Add WA probable cases
