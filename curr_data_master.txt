@@ -1,5 +1,5 @@
-8ab1f700b Automated update
-83c73845d Merge pull request #3473 from CSSEGISandData/patch-wa-probables-1217
-e0bf1df4f Update README
-985c54341 Update death distribution WA
-87cb5042d Add WA probable cases
+50e9a49b2 Automated update
+47fdd3551 Merge pull request #3477 from CSSEGISandData/patch-wa-1217
+3633ce469 Patch WA data for 1217
+db2422c77 Update README.md
+94eea9eb5 Merge pull request #3474 from CSSEGISandData/patch-garfield-wa
