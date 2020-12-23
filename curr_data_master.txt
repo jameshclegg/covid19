@@ -1,5 +1,5 @@
+51351652a Automated update
+1440eac39 Merge pull request #3483 from CSSEGISandData/patch-orange-rockland-ny-1222
+f0f5efdb5 Patch Orange and Rockland, NY deaths for 1216-1218
+94eecc94f Update README.md
 e3464078f Automated update
-3df5c7ad2 Update README.md
-fb2c8dc81 Automated update
-ccf345190 Automated update
-50e9a49b2 Automated update
